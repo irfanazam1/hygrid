@@ -1,0 +1,1 @@
+java QueryServer 192.168.0.1
